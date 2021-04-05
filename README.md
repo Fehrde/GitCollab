@@ -1,3 +1,3 @@
 # GitCollab
 
-Coding4Jesus was here
+Coding4Jesus sux lol get rekt n00b

@@ -8,6 +8,7 @@ public class GitCollab {
 		System.out.println("Testing");
 		System.out.println(" ");
 		System.out.println("bagel");
+		System.out.println("Hi there");
 	}
 
 }

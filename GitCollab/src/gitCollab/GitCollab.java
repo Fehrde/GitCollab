@@ -12,6 +12,7 @@ public class GitCollab {
 		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAa");
 		System.out.print("");
 		System.out.println("W");
+		System.out.print("test");
 	}
 
 }
